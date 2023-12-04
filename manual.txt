@@ -8,5 +8,5 @@
 
 2. "in.chain" which is an input script
 
-3. You can run the LAMMPS command in the directory where your input script and data file are located.
+3. With LAMMPS installed, you can run the LAMMPS command in the directory where your input script and data file are located.
   - lmp_serial -in in.file -var in_filename data.chain 
