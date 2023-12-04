@@ -4,7 +4,7 @@
 1. "data.chain" which is an example of a data file 
   - # of monomers = 200
   - # of H-NS = 30
-  - # of crowders = 2477 (which is equivalent to the volume fraction of crowders = 0.08)
+  - # of crowders = 2387 (which is equivalent to the volume fraction of crowders = 0.08)
 
 2. "in.chain" which is an input script
 
