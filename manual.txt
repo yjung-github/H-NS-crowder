@@ -1,0 +1,12 @@
+0. There are three files in this GitHub repository.
+  - data.chain, in.chain, and manual.txt
+
+1. "data.chain" which is an example of a data file 
+  - # of monomers = 200
+  - # of H-NS = 30
+  - # of crowders = 2477 (which is equivalent to the volume fraction of crowders = 0.08)
+
+2. "in.chain" which is an input script
+
+3. You can run the LAMMPS command in the directory where your input script and data file are located.
+  - lmp_serial -in in.file -var in_filename data.chain 
